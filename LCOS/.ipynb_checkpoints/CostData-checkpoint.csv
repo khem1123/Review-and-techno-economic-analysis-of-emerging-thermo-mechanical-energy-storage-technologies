@@ -1,0 +1,16 @@
+Name;Unit;Symbol;Pumped Hydro;CAES (Adiabatic);Battery (Lithium-ion);Hydrogen;TES (Molten Salt);PTES (Rock);LEAS (Standalone)
+Investment cost - Power;$/kW;CP;1129;1200;156;2741;1341;1300;1700
+Investment cost - Energy;$/kWh;CE;80;49;168;15;18,03;20;40
+Operation cost - Power;$/kW-yr;CP-OM;8;4;10;24,3;10;5;6
+Operation cost - Energy;$/MWh;CE-OM;1;5;3;1;3,5;5;4
+Replacement cost;$/kW;CP-r;0;0;0;0;0;0;0
+Replacement interval;cycles;Cycr;33250;16250;3250;200000;30000;16250;16250
+End-of-life cost;;FEOL;0;0;0;0;0;0;0
+Discount rate;;DR;0;0;0;0;0;0;0
+Round-trip efficiency;;ηRT;0,78;0,55;0,9;0,4;0,45;0,55;0,5
+Self-discharge;/day;ηself,idle;0;0,005;0,01;0,005;0,01;0,01;0,005
+Lifetime;cycles;Cyclife;33250;16250;3250;20000;30000;16250;16250
+Shelf life;years;Tshelf;55;30;13;18;30;30;30
+Time degradation;/year;Tdeg;0,0004;0,007;0,017;0,013;0,009;0,007;0,007
+Cycle degradation;/cycle;Cycdeg;0;0;0;0;0;0;0
+Construction time;years;Tc;3;2;1;1;1;1;2

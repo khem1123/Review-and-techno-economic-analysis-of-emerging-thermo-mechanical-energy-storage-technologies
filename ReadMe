@@ -1,0 +1,7 @@
+Data and codes for "Review and techno-economic analysis of emerging thermo-mechanical energy storage technologies."
+Folder "LCOS" includes the LCOS calculation.
+Folder "Market" includes code and data for Market analysis.
+Folder "2percentage" is the main result discussed in the paper. 
+Folders "1percentage", "5percentage" and "10percentage" are results where storage need to discharge 1%, 5% and 10% of total demand. 
+Folder "Wind" includes results for storage in an Off-grid system dominated by wind (Faroe Island). 
+Folder "Solar" includes results for storage in an Off-grid system dominated by solar (Tibet). 
